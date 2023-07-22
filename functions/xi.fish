@@ -1,3 +1,3 @@
 function xi --wraps xbps-install
-    sudo xbps-install -S $argv
+     xi -S $argv
 end
